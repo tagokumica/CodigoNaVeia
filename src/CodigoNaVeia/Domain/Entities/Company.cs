@@ -19,7 +19,6 @@ namespace Domain.Entities
 
         public string Ie { get; set; }
 
-        public bool Active { get; set; }
 
         public bool isBlocked { get; set; }
 
