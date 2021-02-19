@@ -3,7 +3,55 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{7BD1CD35-46EB-41BF-8ECF-4633E5643EE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{D0801A77-802D-47AA-8D54-B2983241C1CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra.Data", "Infra.Data\Infra.Data.csproj", "{BBAE55AF-CB01-4153-944C-2A3A23A836C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodigoNaVeia.UI", "CodigoNaVeia.UI\CodigoNaVeia.UI.csproj", "{5121109E-5322-4AD7-BA1D-EEC2C7A28B62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra.CrossCutting.IoC", "Infra.CrossCutting.IoC\Infra.CrossCutting.IoC.csproj", "{A72EBC8C-13C9-4F51-B0DD-6E233AFCB91D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra.CrossCutting.Messages.MessageServices", "Infra.CrossCutting.Messages.MessageServices\Infra.CrossCutting.Messages.MessageServices.csproj", "{F752DC2F-06B4-4E24-92C4-B97C218B5DF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra.CrossCutting.Security", "Infra.CrossCutting.Security\Infra.CrossCutting.Security.csproj", "{58352ACD-7FDB-466A-BCDD-F34E64416C70}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BD1CD35-46EB-41BF-8ECF-4633E5643EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD1CD35-46EB-41BF-8ECF-4633E5643EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD1CD35-46EB-41BF-8ECF-4633E5643EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD1CD35-46EB-41BF-8ECF-4633E5643EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0801A77-802D-47AA-8D54-B2983241C1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0801A77-802D-47AA-8D54-B2983241C1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0801A77-802D-47AA-8D54-B2983241C1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0801A77-802D-47AA-8D54-B2983241C1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBAE55AF-CB01-4153-944C-2A3A23A836C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAE55AF-CB01-4153-944C-2A3A23A836C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAE55AF-CB01-4153-944C-2A3A23A836C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAE55AF-CB01-4153-944C-2A3A23A836C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5121109E-5322-4AD7-BA1D-EEC2C7A28B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5121109E-5322-4AD7-BA1D-EEC2C7A28B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5121109E-5322-4AD7-BA1D-EEC2C7A28B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5121109E-5322-4AD7-BA1D-EEC2C7A28B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A72EBC8C-13C9-4F51-B0DD-6E233AFCB91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72EBC8C-13C9-4F51-B0DD-6E233AFCB91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72EBC8C-13C9-4F51-B0DD-6E233AFCB91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72EBC8C-13C9-4F51-B0DD-6E233AFCB91D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F752DC2F-06B4-4E24-92C4-B97C218B5DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F752DC2F-06B4-4E24-92C4-B97C218B5DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F752DC2F-06B4-4E24-92C4-B97C218B5DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F752DC2F-06B4-4E24-92C4-B97C218B5DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58352ACD-7FDB-466A-BCDD-F34E64416C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58352ACD-7FDB-466A-BCDD-F34E64416C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58352ACD-7FDB-466A-BCDD-F34E64416C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58352ACD-7FDB-466A-BCDD-F34E64416C70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
