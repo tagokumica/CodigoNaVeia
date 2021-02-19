@@ -4,4 +4,12 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Entities\Validation\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Infra.CrossCutting.Security\Infra.CrossCutting.Security.csproj" />
+  </ItemGroup>
+
 </Project>
