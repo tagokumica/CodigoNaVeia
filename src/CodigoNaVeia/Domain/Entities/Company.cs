@@ -19,9 +19,6 @@ namespace Domain.Entities
 
         public string Ie { get; set; }
 
-
-        public bool isBlocked { get; set; }
-
         public string Logo { get; set; }
         public IEnumerable<CompanyAddress> CompanyAddress { get; set; }
 
