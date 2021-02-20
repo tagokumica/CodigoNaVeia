@@ -1,0 +1,6 @@
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Application\bin\Debug\netcoreapp3.1\Infra.CrossCutting.Security.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Application\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
