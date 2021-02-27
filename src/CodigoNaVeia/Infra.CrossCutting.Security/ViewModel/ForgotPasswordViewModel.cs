@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace Infra.CrossCutting.Security.ViewModel
+﻿namespace Infra.CrossCutting.Security.ViewModel
 {
     public class ForgotPasswordViewModel
     {
