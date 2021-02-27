@@ -1,5 +1,3 @@
-using System;
-
 namespace CodigoNaVeia.UI.Models
 {
     public class ErrorViewModel
