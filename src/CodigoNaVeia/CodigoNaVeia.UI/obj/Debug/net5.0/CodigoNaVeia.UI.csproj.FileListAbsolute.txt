@@ -36,7 +36,6 @@ C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\bin\De
 C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\bin\Debug\net5.0\NuGet.Frameworks.dll
 C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
 C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\bin\Debug\net5.0\System.Composition.Convention.dll
 C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\bin\Debug\net5.0\System.Composition.Hosting.dll
@@ -138,3 +137,7 @@ C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\obj\De
 C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\obj\Debug\net5.0\ref\CodigoNaVeia.UI.dll
 C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\obj\Debug\net5.0\CodigoNaVeia.UI.pdb
 C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\obj\Debug\net5.0\CodigoNaVeia.UI.genruntimeconfig.cache
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
