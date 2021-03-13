@@ -3,3 +3,12 @@ C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\bin\Debug\n
 C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csprojAssemblyReference.cache
 C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfoInputs.cache
 C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfo.cs
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.deps.json
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\bin\Debug\netcoreapp3.1\Infra.CrossCutting.Security.pdb
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CopyComplete
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.pdb

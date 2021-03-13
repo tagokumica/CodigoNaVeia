@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TUCqDmIxOYPPC8ExINplXzji5hH3ClUI0pTyD6BupRcTQWSfcZTjdMRaIXArt/0GndYH+nBxI/SXvMHXdkbezA==",
+  "dgSpecHash": "nZ+xpSvPkmohiPye12g/Clez/KzA4RbITcD7RYzo8xouirWzJ9DxREZNbGOvB0fZYFnPpqYi6/qzoNQOcefjxw==",
   "success": true,
   "projectFilePath": "C:\\Users\\tiago\\source\\repos\\CodigoNaVeia\\src\\CodigoNaVeia\\Infra.CrossCutting.Messages.MessageServices\\Infra.CrossCutting.Messages.MessageServices.csproj",
   "expectedPackageFiles": [

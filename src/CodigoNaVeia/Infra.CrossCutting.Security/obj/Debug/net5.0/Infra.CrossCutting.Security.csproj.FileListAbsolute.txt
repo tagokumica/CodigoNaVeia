@@ -1,0 +1,12 @@
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.CrossCutting.Security\bin\Debug\net5.0\Infra.CrossCutting.Security.deps.json
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.CrossCutting.Security\bin\Debug\net5.0\Infra.CrossCutting.Security.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.CrossCutting.Security\bin\Debug\net5.0\ref\Infra.CrossCutting.Security.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.CrossCutting.Security\bin\Debug\net5.0\Infra.CrossCutting.Security.pdb
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.CrossCutting.Security\obj\Debug\net5.0\Infra.CrossCutting.Security.csprojAssemblyReference.cache
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.CrossCutting.Security\obj\Debug\net5.0\Infra.CrossCutting.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.CrossCutting.Security\obj\Debug\net5.0\Infra.CrossCutting.Security.AssemblyInfoInputs.cache
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.CrossCutting.Security\obj\Debug\net5.0\Infra.CrossCutting.Security.AssemblyInfo.cs
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.CrossCutting.Security\obj\Debug\net5.0\Infra.CrossCutting.Security.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.CrossCutting.Security\obj\Debug\net5.0\Infra.CrossCutting.Security.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.CrossCutting.Security\obj\Debug\net5.0\ref\Infra.CrossCutting.Security.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.CrossCutting.Security\obj\Debug\net5.0\Infra.CrossCutting.Security.pdb

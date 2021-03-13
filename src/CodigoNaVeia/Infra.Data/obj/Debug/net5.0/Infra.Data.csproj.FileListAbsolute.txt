@@ -1,0 +1,17 @@
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\bin\Debug\net5.0\Infra.Data.deps.json
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\bin\Debug\net5.0\Infra.Data.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\bin\Debug\net5.0\ref\Infra.Data.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\bin\Debug\net5.0\Infra.Data.pdb
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\bin\Debug\net5.0\Domain.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\bin\Debug\net5.0\Infra.CrossCutting.Security.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\bin\Debug\net5.0\Domain.pdb
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\bin\Debug\net5.0\Infra.CrossCutting.Security.pdb
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\obj\Debug\net5.0\Infra.Data.csprojAssemblyReference.cache
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\obj\Debug\net5.0\Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\obj\Debug\net5.0\Infra.Data.AssemblyInfoInputs.cache
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\obj\Debug\net5.0\Infra.Data.AssemblyInfo.cs
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\obj\Debug\net5.0\Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\obj\Debug\net5.0\Infra.Data.csproj.CopyComplete
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\obj\Debug\net5.0\Infra.Data.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\obj\Debug\net5.0\ref\Infra.Data.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Infra.Data\obj\Debug\net5.0\Infra.Data.pdb

@@ -1,0 +1,15 @@
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\bin\Debug\net5.0\Infra.CrossCutting.Security.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\bin\Debug\net5.0\Infra.CrossCutting.Security.pdb
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\obj\Debug\net5.0\Domain.pdb

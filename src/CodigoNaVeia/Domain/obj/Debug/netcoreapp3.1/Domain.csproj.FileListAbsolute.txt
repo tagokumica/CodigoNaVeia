@@ -1,0 +1,12 @@
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\bin\Debug\netcoreapp3.1\Infra.CrossCutting.Security.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\bin\Debug\netcoreapp3.1\Infra.CrossCutting.Security.pdb
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CopyComplete
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
