@@ -1,12 +1,10 @@
 ﻿using System;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Infra.CrossCutting.Security.Model;
 using Microsoft.AspNetCore.Identity;
 using Application.Interface;
 using Application.ViewModel;
 using Domain.Interface.Notification;
-using Infra.CrossCutting.Messages.MessageServices.Interface;
 
 namespace CodigoNaVeia.UI.Controllers
 {
