@@ -21,6 +21,24 @@ namespace CodigoNaVeia.UI.Controllers
             _userManager = userManager;
         }
 
+        [Route("index/{id:guid}")]
+        public IActionResult Index(Guid id)
+        {
+
+            if (id == Guid.NewGuid() || id == Guid.Empty)
+            {
+                return NotFound();
+            }
+
+            var employee = _iEmployeeAppService.FindEmployee(id);
+
+            if (employee == null)
+            {
+                return NotFound();
+            }
+
+            return View("Index", employee);
+        }
 
         [Route("atualizar-empregado/{id:guid}")]
         public IActionResult Update(Guid id)
