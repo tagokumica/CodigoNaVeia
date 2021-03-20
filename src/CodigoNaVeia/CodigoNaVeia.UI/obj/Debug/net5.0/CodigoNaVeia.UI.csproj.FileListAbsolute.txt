@@ -141,3 +141,5 @@ C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\bin\De
 C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\obj\Debug\net5.0\Razor\Views\Company\Index.cshtml.g.cs
+C:\Users\tiago\source\repos\CodigoNaVeia\src\CodigoNaVeia\CodigoNaVeia.UI\obj\Debug\net5.0\Razor\Views\Employee\Update.cshtml.g.cs
