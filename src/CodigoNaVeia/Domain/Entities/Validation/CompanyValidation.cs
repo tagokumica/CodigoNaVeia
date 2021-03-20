@@ -1,4 +1,4 @@
-﻿using Domain.Validate;
+﻿using Domain.ValueObject;
 using FluentValidation;
 
 namespace Domain.Entities.Validation
@@ -7,13 +7,13 @@ namespace Domain.Entities.Validation
     {
         public CompanyValidation()
         {
-            RuleFor(s => CnpjValidate.Validate(s.Cnpj))
+            RuleFor(s => Cnpj.Validate(s.Cnpj))
                 .Equal(true)
                 .WithMessage("O Cnpj esta invalido");
 
 
 
-            RuleFor(s => IeValidate.Validate(s.Ie))
+            RuleFor(s => Ie.Validate(s.Ie))
                 .Equal(true)
                 .WithMessage("O Inscrição Estadual esta invalido");
 

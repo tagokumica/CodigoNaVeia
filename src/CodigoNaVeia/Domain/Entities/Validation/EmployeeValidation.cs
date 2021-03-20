@@ -1,4 +1,4 @@
-﻿using Domain.Validate;
+﻿using Domain.ValueObject;
 using FluentValidation;
 
 namespace Domain.Entities.Validation
@@ -7,12 +7,12 @@ namespace Domain.Entities.Validation
     {
         public EmployeeValidation()
         {
-            RuleFor(s => CpfValidate.Validate(s.Cpf))
+            RuleFor(s => Cpf.Validate(s.Cpf))
                 .Equal(true)
                 .WithMessage("O Cpf esta invalido");
 
 
-            RuleFor(s => RgValidate.Validate(s.Rg))
+            RuleFor(s => Rg.Validate(s.Rg))
                 .Equal(true)
                 .WithMessage("O Rg esta invalido");
         }
