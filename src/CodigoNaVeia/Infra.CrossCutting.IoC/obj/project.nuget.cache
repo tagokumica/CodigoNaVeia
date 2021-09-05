@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "20fUTIN1S1iPBRpbZ/iG7+ZGSRS2rYcFXbuS4SHHBhoj8m6dH+2I8hwNtU8hkcz8gKDzzABivSLFBrv1ujHriA==",
+  "dgSpecHash": "W1vePLARiXX/51xDQF3x794neGGeN/zE5gjRus8S9h9eQqsv9lRBJ4J7yYdLavcHUcxABgzllWejzb1TXNvLRg==",
   "success": true,
   "projectFilePath": "C:\\Users\\tiago\\source\\repos\\CodigoNaVeia\\src\\CodigoNaVeia\\Infra.CrossCutting.IoC\\Infra.CrossCutting.IoC.csproj",
   "expectedPackageFiles": [
